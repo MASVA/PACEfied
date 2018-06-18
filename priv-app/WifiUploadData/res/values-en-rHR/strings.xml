@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="am">AM</string>
+  <string name="app_name">Wi-Fi Učitavanje</string>
+  <string name="average_text">Prosj.</string>
+  <string name="cannot_acess_server">Ne mogu se povezati s poslužiteljem</string>
+  <string name="cannot_upload_user">Nije moguće provjeriti token pristupa</string>
+  <string name="date">Vremenska oznaka:</string>
+  <string name="did_not_connect_assist">Povežite se s aplikacijom Amazfit Watch kako biste osvježili tokena pristupa da učitate podatke na poslužitelj</string>
+  <string name="init_app">Povezivanje s aplikacijom Amazfit Watch</string>
+  <string name="init_update_user">Osvježavanje tokena pristupa</string>
+  <string name="init_user">Provjera tokena pristupa</string>
+  <string name="init_wifi">Povezivanje na Wi-Fi</string>
+  <string name="net_failed">Provjerite je li Pace povezan s Wi-Fi mrežom</string>
+  <string name="no_altitude_hint">Podaci o nadmorskoj visini nisu otkriveni</string>
+  <string name="no_heartrate_data_hint">Podaci otkucaja srca nisu otkriveni</string>
+  <string name="notice_text_failed_top">Ne mogu učitati podatke</string>
+  <string name="notice_text_success_bottom">Podaci se mogu vidjeti u aplikaciji Amazfit Watch</string>
+  <string name="notice_text_success_top">Učitavanje podataka gotovo</string>
+  <string name="picker_default_nagetive_text">Off</string>
+  <string name="picker_default_positive_text">Potvrdi</string>
+  <string name="please_keep_wifi_connected">Neka Pace bude povezan s Wi-Fi mrežom</string>
+  <string name="please_upload_assist_version">Ažurirajte aplikaciju Amazfit Watch na najnoviju verziju i pokušajte ponovo</string>
+  <string name="pm">PM</string>
+  <string name="see_after_connect_app_token_faield">Ne mogu se povezati s aplikacijom Amazfit Watch za osvježavanje tokena pristupa</string>
+  <string name="sport_music_settings">Sportska glazba</string>
+  <string name="title_settings">Postavke</string>
+  <string name="upload_failed_full">Prijenos podataka nije dovršen, izaći?</string>
+  <string name="widget_currentstep_activities">Koraka danas</string>
+  <string name="widget_currentstep_activity_no">Nećeš vježbati danas?</string>
+  <string name="widget_currentstep_sleep_no">Nema podataka spavanja</string>
+  <string name="widget_currentstep_sleep_title">Spavano noćas</string>
+  <string name="widget_currentstep_title">Podatkovni centar</string>
+</resources>

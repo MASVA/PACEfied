@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorData</string>
+    <string name="hello_world">Odabrano :ACC PPG</string>
+    <string name="action_settings">Postavke</string>
+    <string name="completed">Završeno %1$s</string>
+    <string name="upload_failed">Ne mogu učitiati!</string>
+    <string name="upload_success">Uspješno učitano!</string>
+    <string name="uploading">Učitavanje!</string>
+    <string name="no_uploaded_files">Nema učitanih datoteka!</string>
+    <string name="open_wifi_failed">Ne mogu uključiti Wi-Fi!</string>
+    <string name="connect_APP">Povežite APP!</string>
+</resources>

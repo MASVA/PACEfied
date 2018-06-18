@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huami Lab</string>
+    <string name="main_title">Huami Lab</string>
+    <string name="agreement_title">24/7 PPG snimanje</string>
+    <string name="message">Da bismo poboljšali vaše iskustvo, skupljamo PPG podatke kada nosite sat. Podaci će se koristiti samo u svrhu istraživanja radi poboljšanja naših algoritama. Uključivanje ove značajke negativno će utjecati na trajanje baterije.</string>
+    <string name="allow">Dopusti</string>
+    <string name="exit">Odustani</string>
+    <string name="heart_rate_collection_on">Uključeno</string>
+    <string name="heart_rate_collection_off">Isključeno</string>
+    <string name="saving_data">Spremanje podataka</string>
+    <string name="upload_data">Učitaj</string>
+    <string name="upload_success">Gotovo</string>
+    <string name="upload_failed">Ne mogu učitati, pokušajte ponovno</string>
+    <string name="air_mode_alert_title">Ne mogu se povezati</string>
+    <string name="air_mode_alert_message">Isključite Zrakoplovni način pa pokušajte ponovo.</string>
+    <string name="average_text">Prosj.</string>
+    <string name="picker_default_positive_text">Potvrdi</string>
+    <string name="picker_default_nagetive_text">Isključeno</string>
+    <string name="no_heartrate_data_hint">Podaci otkucaja srca nisu otkriveni</string>
+    <string name="no_altitude_hint">Podaci o nadmorskoj visini nisu otkriveni</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Postavke</string>
+    <string name="sport_music_settings">Sportska glazba</string>
+    <string name="locale_title">Odaberi jezik</string>
+    <string name="widget_currentstep_title">Podatkovni centar</string>
+    <string name="widget_currentstep_activities">Koraka danas</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Spavano noćas</string>
+    <string name="widget_currentstep_sleep_no">Nema podataka spavanja</string>
+    <string name="widget_currentstep_activity_no">Nećeš vježbati danas?</string>
+</resources>

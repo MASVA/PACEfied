@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Zasloni u Pregledu: %d</item>
+        <item quantity="one">1 zaslon u Pregledu</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Netočan SIM PIN kôd, imate još %d preostalih pokušaja.</item>
+        <item quantity="one">Netočan SIM PIN kôd, imate još %d preostali pokušaj prije nego što kontaktirate svog operatera kako biste otključali uređaj.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Netočan SIM PUK kôd, imate još %d preostalih pokušaja prije nego što SIM bude trajno neupotrebljiv.</item>
+        <item quantity="one">Netočan SIM PUK kôd, imate još %d preostali pokušaj prije nego što SIM bude trajno neupotrebljiv.</item>
+    </plurals>
+</resources>

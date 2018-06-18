@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Danas</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Air Excellent</item>
+        <item>Air Fine</item>
+        <item>Light Pollution</item>
+        <item>Moderate Pollution</item>
+        <item>Heavy Pollution</item>
+        <item>Serious Pollution</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Pogodno za sport</item>
+        <item>Nije pogodno za sport</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Sunčano</item>
+        <item>Oblačno</item>
+        <item>Naoblaka</item>
+        <item>Magla</item>
+        <item>Smog</item>
+        <item>Kiša</item>
+        <item>Thunder shower</item>
+        <item>Light rain</item>
+        <item>Moderate rain</item>
+        <item>Heavy rain</item>
+        <item>Rainstorm</item>
+        <item>Torrential rain</item>
+        <item>Sleet</item>
+        <item>Freezing rain</item>
+        <item>Hail</item>
+        <item>Light snow</item>
+        <item>Moderate snow</item>
+        <item>Heavy snow</item>
+        <item>Snowstorm</item>
+        <item>Snow shower</item>
+        <item>Dust</item>
+        <item>Blowing sand</item>
+        <item>Sand storm</item>
+        <item>Strong sand storm</item>
+        <item>No Data</item>
+    </string-array>
+</resources>

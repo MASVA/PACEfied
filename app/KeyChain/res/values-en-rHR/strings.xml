@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Certifikati nisu pronađeni</string>
+    <string name="title_select_cert">Odaberite certifikat</string>
+    <string name="requesting_application">Aplikacija %s je zatražila certifikat. Odabir certifikata omogućit će aplikaciji upotrebu tog identiteta s poslužiteljima sada i u budućnosti.</string>
+    <string name="requesting_server">Aplikacija je identificirala poslužitelja koji je zatražio zahtjev kao %s, ali trebali bi dati pristup aplikaciji certifikatu ako vjerujete aplikaciji.</string>
+    <string name="install_new_cert_message">Možete instalirati certifikate iz PKCS#12 datoteke sa %1$s ili %2$s proširenjem koje se nalazi na vanjskoj pohrani.</string>
+    <string name="install_new_cert_button_label">Instaliraj</string>
+    <string name="allow_button">Dopusti</string>
+    <string name="deny_button">Odbij</string>
+</resources>
