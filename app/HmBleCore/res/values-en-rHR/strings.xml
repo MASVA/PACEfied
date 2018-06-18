@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HmSmartHome</string>
+    <string name="app_name">Unlock MIUI</string>
+    <string name="unlock_tips">Dopustite ovom satu da otključa telefon</string>
+    <string name="enter">U redu</string>
+    <string name="ble_lost_notification_very_far">Telefon je predaleko</string>
+    <string name="ble_lost_notification_phone_is_not_near">Uvjerite se je li vaš telefon u blizini</string>
+    <string name="ble_lost_notification_prevent_lost_remind">Upozorenje izgubljenog telefona</string>
+    <string name="ble_lost_notification_disconnect">Prekinuta je veza sata sa telefonom</string>
     <string name="average_text">Prosj.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdi</string>
@@ -10,13 +16,6 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Postavke</string>
     <string name="sport_music_settings">Sportska glazba</string>
-    <string name="mihome_widget_title">Mi Home</string>
-    <string name="mihome_widget_info_unbind">Upareno s Mi Home aplikacijom. Ovaj sat može upravljati kompatibilnim Mi uređajima; ne izlazite prilikom uparivanja</string>
-    <string name="mihome_widget_info_no_devices">U aplikaciji Mi Home dodajte Mi uređaje koje želite kontrolirati ovim satom</string>
-    <string name="mihome_activity_title_disconnected">Nije povezano</string>
-    <string name="mihome_activity_info_disconnected">Povežite se s aplikacijom Mi Home na svoj telefon preko Bluetootha</string>
-    <string name="mihome_activity_btn_disconnected">Povežite se s aplikacijom Mi Home na svoj telefon preko Bluetootha</string>
-    <string name="mihome_device_card_2_offline">[Izvanmrežno]</string>
     <string name="widget_currentstep_title">Dnevni pregled</string>
     <string name="widget_currentstep_activities">Aktivnosti</string>
     <string name="widget_currentstep_sleep_hour">h</string>

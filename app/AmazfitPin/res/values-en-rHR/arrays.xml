@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.pin/com.huami.watch.pin.PinWidgetView</item>
+    </string-array>
+    <string-array name="item_reset_time_str">
+        <item>固定30分钟</item>
+        <item>固定1小时</item>
+        <item>固定2小时</item>
+        <item>固定3小时</item>
+        <item>固定4小时</item>
+    </string-array>
+    <integer-array name="item_reset_time_min">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+    </integer-array>
+</resources>

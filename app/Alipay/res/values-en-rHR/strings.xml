@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alipay</string>
+    <string name="confirm_unbind">Unpair</string>
+    <string name="unbind_warning">"You won't be able to use Alipay on your watch after you unpair."</string>
+    <string name="bind_my_watch">Pair watch</string>
+    <string name="user_hint">Open Alipay (9.3 or later) on your phone, and go to Profile > Settings > Security > Smart watch</string>
+    <string name="bind_im">Pair</string>
+    <string name="bind_from_qr">Scan QR code to pair</string>
+    <string name="bind_qr_code">QR code</string>
+    <string name="user_hint_title">Attention</string>
+    <string name="loading">Loading Alipay…</string>
+    <string name="title">Watch Alipay</string>
+    <string name="widget_title">Alipay</string>
+    <string name="tip">Open Alipay (9.3 or later) on your phone, and go to Profile > Settings > Security > Smart watch</string>
+    <string name="ios_unsupport_tips">"(Alipay on iOS isn't currently supported)"</string>
+    <string name="button_start_bind">Pair</string>
+    <string name="bind_usage">Scan QR code to pair</string>
+    <string name="bar_code_tip">This code is used during checkout</string>
+    <string name="qr_code_tip">This code is used during checkout</string>
+    <string name="bind_success_title">Paired successfully</string>
+    <string name="unbind_tip">You can unpair Alipay in the watch app</string>
+    <string name="button_ok">OK</string>
+    <string name="confirm_unbind_title">Unpair</string>
+    <string name="unbind_alert_message">"You won't be able to use Alipay on your watch after you unpair. Unpair anyway?"</string>
+    <string name="not_available">"This feature isn't currently available."</string>
+    <string name="airplane_mode_tips">Turn off Airplane mode to use Alipay on your watch.</string>
+    <string name="debug_nickname" />
+    <string name="debug_username" />
+    <string name="debug_paycode_string" />
+</resources>

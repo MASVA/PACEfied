@@ -62,9 +62,9 @@
     <string name="no_altitude_hint">Podaci o nadmorskoj visini nisu otkriveni</string>
     <string name="title_settings">Postavke</string>
     <string name="sport_music_settings">Sportska glazba</string>
-    <string name="widget_currentstep_title">Centar podataka</string>
-    <string name="widget_currentstep_activities">Koraka danas</string>
-    <string name="widget_currentstep_sleep_title">Spavanje sinoć</string>
+    <string name="widget_currentstep_title">Podatkovni centar</string>
+    <string name="widget_currentstep_activities">Aktivnosti</string>
+    <string name="widget_currentstep_sleep_title">Spavanje</string>
     <string name="widget_currentstep_sleep_no">Nema podataka o spavanju</string>
     <string name="widget_currentstep_activity_no">Nećete vježbati danas?</string>
     <string name="quick_settings_date_chinese">dd-MM-yyyy</string>

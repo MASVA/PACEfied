@@ -33,11 +33,11 @@
   <string name="tv_use_title">Koristi</string>
   <string name="tv_voice_title">Kontrola glasnoće</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="widget_currentstep_activities">Koraka danas</string>
+  <string name="widget_currentstep_activities">Aktivnosti</string>
   <string name="widget_currentstep_activity_no">Nećete vježbati danas?</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
   <string name="widget_currentstep_sleep_no">Nema podataka spavanja</string>
-  <string name="widget_currentstep_sleep_title">Spavano sinoć</string>
+  <string name="widget_currentstep_sleep_title">Spavanje</string>
   <string name="widget_currentstep_title">Podatkovni centar</string>
 </resources>

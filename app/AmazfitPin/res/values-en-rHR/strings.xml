@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">HmSmartHome</string>
+    <string name="app_name">NegativeScreen</string>
+    <string name="empty">"负一屏
+暂无信息"</string>
+    <string name="cancel_fixed">取消固定</string>
+    <string name="reset_pin_time">重新设定时间</string>
+    <string name="cancel_pin">取消固定</string>
+    <string name="msg_detail">信息详情</string>
+    <string name="remain_min_tip">分钟后隐藏</string>
+    <string name="item_reset_time_min">固定%1$d分钟</string>
+    <string name="item_reset_time_hour">固定%1$d小时</string>
+    <string name="dialog_reset_time_tip">将这条信息固定到屏幕</string>
+    <string name="back">返回</string>
+    <string name="fix_one_hour">固定一小时</string>
+    <string name="fix_other">其他</string>
+    <string name="replace_dialog_title">替换已有固定信息</string>
+    <string name="replace">替换</string>
     <string name="average_text">Prosj.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdi</string>
@@ -10,14 +25,7 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Postavke</string>
     <string name="sport_music_settings">Sportska glazba</string>
-    <string name="mihome_widget_title">Mi Home</string>
-    <string name="mihome_widget_info_unbind">Upareno s Mi Home aplikacijom. Ovaj sat može upravljati kompatibilnim Mi uređajima; ne izlazite prilikom uparivanja</string>
-    <string name="mihome_widget_info_no_devices">U aplikaciji Mi Home dodajte Mi uređaje koje želite kontrolirati ovim satom</string>
-    <string name="mihome_activity_title_disconnected">Nije povezano</string>
-    <string name="mihome_activity_info_disconnected">Povežite se s aplikacijom Mi Home na svoj telefon preko Bluetootha</string>
-    <string name="mihome_activity_btn_disconnected">Povežite se s aplikacijom Mi Home na svoj telefon preko Bluetootha</string>
-    <string name="mihome_device_card_2_offline">[Izvanmrežno]</string>
-    <string name="widget_currentstep_title">Dnevni pregled</string>
+    <string name="widget_currentstep_title">Podatkovni centar</string>
     <string name="widget_currentstep_activities">Aktivnosti</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>

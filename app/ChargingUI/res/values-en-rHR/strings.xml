@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ChargingUI</string>
+    <string name="app_name">Charging UI</string>
     <string name="hello_world">Pozdrav svijete!</string>
     <string name="action_settings">Postavke</string>
     <string name="unit">%</string>
