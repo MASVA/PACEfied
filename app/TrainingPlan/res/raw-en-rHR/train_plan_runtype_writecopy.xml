@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Trčanje</runType>
+            <trainContent>Trčanje</trainContent>
+            <copyWrite>800m laganog trčanja + 200m hodanja. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Trčanje</runType>
+            <trainContent>Recovery Trčanje</trainContent>
+            <copyWrite>Lagano trčanje. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Trčanje</runType>
+            <trainContent>Osnovno trčanje</trainContent>
+            <copyWrite>Trčanje razgovornim tempom. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Trčanje</runType>
+            <trainContent>Progresivno trčanje</trainContent>
+            <copyWrite>Započnite polako i postupno povećavajte brzinu. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Trčanje</runType>
+            <trainContent>Fartlek</trainContent>
+            <copyWrite>Slobodno prebacivanje snage treninga. Preporučeni otkucaji srca: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Trčanje</runType>
+            <trainContent>Ponavljanja uspona</trainContent>
+            <copyWrite>Trčanje uzbrdo na ravnomjeran način. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Trčanje</runType>
+            <trainContent>Tempo trčanje</trainContent>
+            <copyWrite>Trčanje normalnim i stalnim tempom. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Trčanje</runType>
+            <trainContent>Kratki intervali</trainContent>
+            <copyWrite>800m brzo trčanje + 800m hodanja onda ponovite. Preporučeni otkucaji srca: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Trčanje</runType>
+            <trainContent>Dugi intervali</trainContent>
+            <copyWrite>2.4km trčanja + 800m hodanja onda ponovite. Preporučeni otkucaji srca: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Odmor</runType>
+            <trainContent></trainContent>
+            <copyWrite>Odmor danas. %1$d dan(a) do sljedećeg treninga</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Plivanje</runType>
+            <trainContent></trainContent>
+            <copyWrite>Plivanje za brzinu oporavka. Ne zaboravite označiti danas kao završen nakon plivanja.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Biciklizam</runType>
+            <trainContent></trainContent>
+            <copyWrite>Brzina oporavka. Preporučeni otkucaji srca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

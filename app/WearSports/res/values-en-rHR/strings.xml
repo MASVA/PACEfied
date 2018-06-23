@@ -288,7 +288,7 @@
     <string name="sport_in_progress_confirm">Potvrdi</string>
     <string name="sport_modify">Kalibriraj</string>
     <string name="sport_history_detail_heart_unit">Jedinica (h:m:s)</string>
-    <string name="widget_sport_item_running_title">Running</string>
+    <string name="widget_sport_item_running_title">Trčanje</string>
     <string name="wait_gps_no_gps_signal">GPS nije dostupan, pokušajte ponovno na otvorenom prostoru</string>
     <string name="wait_gps_hint">GPS signal je bolji u otvorenom prostoru daleko od zgrada</string>
     <string name="wait_gps_success">GPS dostupan, sada možete početi vježbati</string>

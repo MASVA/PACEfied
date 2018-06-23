@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Početnik</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Pogodno za prvu trčanje od hodanja do trčanja. Ovaj trening može vam pomoći korak po korak da se prilagodite trčanju.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Prikladno za trkače početnike. Ovaj trening može pomoći da dobijete bolje kretanje.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Pogodno za napredne trkače. Ovaj trening pomaže poboljšati aerobnu kondiciju i snagu mišića.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Polumaraton</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Pogodno za polumaraton. Pomaže vam da poboljšate svoju sposobnost dužeg trčanja.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Marathon</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Pogodno za sve utrke. Pomaže vam da predvidite izvedbu i planirate svoju strategiju koraka i podudaranja.</copyWrite>
+        </trainplan>
+</trainplans>

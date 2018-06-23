@@ -45,7 +45,7 @@
   <string name="temp_unit_degree">°</string>
   <string name="temp_unit_fahrenheit">°F</string>
   <string name="title_settings">Postavke</string>
-  <string name="type_to">" to "</string>
+  <string name="type_to">" do "</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="unknown">Nepoznato</string>
   <string name="uv">UV zračenje</string>
